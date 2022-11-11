@@ -1,6 +1,7 @@
-# RProductivty App
+# PRODUCTIVITY APP
 
-This is a project to track one's activities so as to enhance productivity. 
+#### This is an application to track one's activities so as to enhance productivity. Users can create, update, and delete their tasks accordingly
+
 <img width="628" alt="Screenshot 2022-11-11 at 15 22 56" src="https://user-images.githubusercontent.com/50773868/201339828-3eceb3dc-2a0c-445f-85f0-36c2ad72a27e.png">
 
 ## Built With
