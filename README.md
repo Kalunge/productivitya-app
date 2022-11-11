@@ -71,4 +71,4 @@ Give a :star: if you like this project!
 
 ## Acknowledgments
 
-- Much appreciation to the the EntireMoring staff and student community
+- Much appreciation to the the Entire Moringa staff and student community
